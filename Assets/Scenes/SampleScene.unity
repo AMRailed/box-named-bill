@@ -1131,7 +1131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb61452c812d17142bf9477cdd624928, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DashDistance: 30
+  DashDistance: 10
   player: {fileID: 1582248701}
   rb: {fileID: 0}
 --- !u!4 &776790119 stripped
