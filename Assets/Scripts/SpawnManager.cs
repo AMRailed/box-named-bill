@@ -12,6 +12,8 @@ public class SpawnManager : MonoBehaviour
     public int Score = 0;
     public TMP_Text _textMeshPro;
 
+    
+
     // Start is called before the first frame update
     void Start()
     {
